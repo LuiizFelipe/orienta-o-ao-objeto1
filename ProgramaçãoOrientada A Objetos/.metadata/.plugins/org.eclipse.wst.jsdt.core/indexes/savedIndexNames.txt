@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\luizf\OneDrive\Área de Trabalho\ProgramaçãoOrientada A Objetos\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2818182070.index
+607735304.index
+4272651525.index
+1994841872.index
+765107144.index
+3109880515.index

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\luizf\OneDrive\Área de Trabalho\ProgramaçãoOrientada A Objetos\.metadata\.plugins\org.eclipse.jdt.core
+4272651525.index
+1865797976.index
+3223308152.index

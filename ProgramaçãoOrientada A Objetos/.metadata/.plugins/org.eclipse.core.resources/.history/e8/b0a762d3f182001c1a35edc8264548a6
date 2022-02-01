@@ -1,0 +1,42 @@
+/*Crie uma classe produto eletrônico e apresente os atributos e métodos
+referentes esta classe, em seguida crie um objeto produto eletrônico,
+defina as instancias deste objeto e apresente as informações deste objeto
+no console.
+ */
+
+package ClassesDeObjetos;
+
+//Classe do meu cliente 
+public class exercicio3partir1{
+	//Atributos
+	String produto;//produto
+	int tipo;//idade
+	String valor;//rg
+	String N2;//cpf
+		
+	public void informarNumeroDeSerie()
+	{
+		if(this.N2.length()==14)
+			System.out.println("Número de serie: "+this.N2);
+		else
+			System.out.println("Digitar o Número de barra do produto");
+	}
+	
+	public void informartipo()
+	{
+		System.out.println("tipo: "+this.tipo);
+	}
+	
+	public void informarproduto()
+	{
+		System.out.println("v: "+this.produto);
+	}
+	
+	public void informarvalor()
+	{
+		if(this.valor.length()==7)
+			System.out.println("N2: "+this.valor);
+		else
+			System.out.println("por favor digite o valor conforme tabela");
+	}
+}
